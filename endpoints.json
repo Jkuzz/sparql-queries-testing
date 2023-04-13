@@ -1,0 +1,4765 @@
+{
+  "metadata": {
+    "date": "2023-04-03",
+    "timeout": 5,
+    "version": 1
+  },
+  "data": [
+    {
+      "endpoint": "http://140.109.28.64:2020/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://156.35.31.156/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://156.35.82.103/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://193.145.57.56:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://202.45.139.84:10035/catalogs/fao/repositories/agris",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://202.45.139.84:10035/catalogs/fao/repositories/agrovoc",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://202.73.13.50:55824/catalogs/performance/repositories/jita",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://212.81.220.68:2020/elviajero",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://91.239.64.176:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://abs.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://academia6.poolparty.biz/PoolParty/sparql/Tesauro-Materias-BUPM",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://acm.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://adl-gazetteer.geog.ucsb.edu:3030/adl/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://aemet.linkeddata.es/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://afcsid.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://affymetrix.bio2rdf.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://agalpha.mathbiol.org/repositories/tcga",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://agencies.publicdata.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://agrinepaldata.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://aksw.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://alaska.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://aliada.scanbit.net:8891/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.aucklandmuseum.com",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/bricklink/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/ecco-tcp-eighteenth-century-collections-online-texts/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/english-heritage/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/federal-reserve-economic-data/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/foodista/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/musicnet/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/nasa/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/openflights-routes/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/pali-english-lexicon/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/prelinger-archives/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/renewable-energy-generators/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/sanskrit-english-lexicon/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/un-hazardous-material-numbers/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/yahoo-geoplanet/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/airports/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/bbc-backstage/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/bbc-wildlife/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/climb/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/datagovuk/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/elections/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/eumida/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/eupmedia/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/eurobarometer/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/eutc-productions/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/gunnbib-digitalmanuskripter/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/jgoodwin-genealogy/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/massobservation/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/metoffice/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/moseley/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/musicbrainz/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/nvd/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/openlibrary/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/ordnance-survey/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/pbac/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/pokedex/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/productdb/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/rsinger-dev4/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/schemapedia/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/smcjournals/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/theviewfrom/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/trafficscotland/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/whoiswho/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://apps.ideaconsult.net:8080/ontology",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://apps.morelab.deusto.es/labman/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://apps.morelab.deusto.es/teseo/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://aseg.cs.concordia.ca/secold/sparqlendpoint",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://asev.l3s.uni-hannover.de:8085/openrdf-sesame/repositories/TERENCE_STORY",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://babelnet.org/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://bfs.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://biolit.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://biomodels.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://biopax.biomodels.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://biopax.kegg.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://biopax.pharmgkb.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://bioportal.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://biordf.net/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://bis.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://bnb.data.bl.uk/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://budapest.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://catalogus-professorum.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://cau.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://cb.semsol.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ccny-cuny.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://cdrewu.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://chebi.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://chembl.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://citeseer.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ckan.eurohelp.es:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://clinicaltrials.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://colinda.org/endpoint.php",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://collection.britishmuseum.org/Sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://commons.dbpedia.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://cordis.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://core.kmi.open.ac.uk/squery",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://corpora.nlp2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://courseware.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://cr.eionet.europa.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://cr3.eionet.europa.eu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://crashmap.okfn.gr:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://crime.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://crm.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://crtm.linkeddata.es/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://crystaleye.ch.cam.ac.uk/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ctd.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://cultura.linkeddata.es/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://curriculum.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dacura.cs.tcd.ie/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://darmstadt.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dartmouth.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data-gov.ie/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.aalto.fi/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.allie.dbcls.jp/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://data.archiveshub.ac.uk/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.ariadne-eu.org/sparql.tpl",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.bib.uni-mannheim.de/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.bibbase.org:2020/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.bibsys.no/data/query_authority.html",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.cnr.it/sparql-proxy/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.colinda.org/endpoint.php",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.copac.ac.uk/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.duraark.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.ege.edu.tr/ep/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.fundacionctic.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.globalchange.gov/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.hnm.hu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.lenka.no/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.lider-project.eu/usage/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.linkedct.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.linkededucation.org/request/lak-conference/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.linkededucation.org/request/ted/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.linkedmdb.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.linkedu.eu/don/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.linkedu.eu/forge/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.linkedu.eu/hud/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.linkedu.eu/kis/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.linkedu.eu/kis1112/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.linkedu.eu/ocw/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.linkedu.eu/prod/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.linkedu.eu/slidewiki/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.lod2.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.logainm.ie/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://data.nature.com/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.ngii.go.kr/SPARQL/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.nobelprize.org/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.noticias.universia.net/d2r-server/snorql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.oceandrilling.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.open.ac.uk/query",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://data.opendiscoveryspace.eu/sparql.tpl",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.organic-edunet.eu/snorql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.organic-edunet.eu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.ox.ac.uk/sparql/",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.rism.info/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://data.semanticuniverse.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.semanticweb.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.szepmuveszeti.hu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.uni-muenster.de/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.utpl.edu.ec/ecuadorresearch/lod/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.utpl.edu.ec/utpl/lod/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dati.camera.it/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://dati.isprambiente.it/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://datos.artium.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://datos.bcn.cl/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://datos.bne.es/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://dblp.l3s.de/d2r/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dblp.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://dbsnp.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dbtune.org/bbc/peel/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://dbtune.org/classical/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://dbtune.org/jamendo/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://dbtune.org/magnatune/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://dbtune.org/musicbrainz/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://dbtune.org/myspace/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://de.dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://deepblue.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://demo.spraakdata.gu.se/ltlod/test/",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://deploy.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dewey.info/sparql.php",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://digitale.bncf.firenze.sbn.it/openrdf-workbench/repositories/NS/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://digitaleconomy.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://diwis.imis.athena-innovation.gr:8181/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://doc.metalex.eu:8000/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dotac.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://drugbank.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dutchshipsandsailors.nl/data/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ecb.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ecb.publicdata.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://ecowlim.tfri.gov.tw/sparql/query",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ecs.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://eculture2.cs.vu.nl:5020/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://eculture2.cs.vu.nl:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://edit.elte.hu/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://el-devtc01.tugraz.at/~ldv/interlinking/endpoint_handler.php",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://el.dbpedia.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://en.openei.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://enaktingpsi.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://enipedia.tudelft.nl/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://environment.data.gov.uk/sparql/bwq/query",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://epo.publicdata.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://eprints.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://epsrc.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://era.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://eris.okfn.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://es.dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://eu.dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://eur-lex.publicdata.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://eurecom.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://europeana.ontotext.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://eurostat.linked-statistics.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://eventmedia.eurecom.fr/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://extbi.lab.aau.dk/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://factforge.net/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://famu.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://fao.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://farolas.linkeddata.es/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://fintrans.publicdata.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://foodpedia.tk/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://foreign.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://foreign.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://fr.dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://frb.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ft.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://fun.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://futurewavehosting.com:3030/my-family-lineage/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://gdlc.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://genage.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://genbank.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://gendr.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://geo.linkeddata.es/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://geografia.ideca.gov.co/fuseki/dataset.html?tab=query&ds=/inf",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://goa.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://gov.tso.co.uk/coins/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://gov.tso.co.uk/dclg/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://gov.tso.co.uk/legislation/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://gov.tso.co.uk/transport/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://govwild.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://greek-lod.auth.gr/fire-brigade/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://greek-lod.auth.gr/police/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://greek-lod.math.auth.gr/intervalue/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://greek-lod.math.auth.gr/kalikratis/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://harvard.eagle-i.net/sparqler/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://hawaii.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://hcls.deri.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://hcls.deri.org:8080/openrdf-sesame/repositories/tcga",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://healthdata.tw.rpi.edu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://helheim.deusto.es/bizkaisense/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://helheim.deusto.es/hedatuz/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://helheim.deusto.es/linkedstats/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://heritagedata.org/live/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://hgnc.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://homologene.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://howard.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://http://crashmap.okfn.gr:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://http://opendata.intellidomo.es:8080/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://hunter-cuny.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ibm.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ichoose.tw.rpi.edu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://id.ndl.go.jp/auth/ndla/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://id.ndl.go.jp/auth/ndlsh/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://id.sgcb.mcu.es/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://identifiers.org/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://idi.fundacionctic.org/classifications_endpoint/eurovoc",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ieee.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ieeevis.tw.rpi.edu/nosparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://imash.leeds.ac.uk:8080/openrdf-workbench/repositories/AMOnSPARQL/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://imf.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://inoh.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://interpro.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://iproclass.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://irefindex.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://irit.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://iserve.kmi.open.ac.uk/iserve/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://italy.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ja.dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://jisc.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://jsu.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://kaiko.getalp.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://kasabi.com/api/sparql-endpoint-foodista",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://kaunas.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://kegg.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://kent.zpr.fer.hr:8080/educationalProgram/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://kisti.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://km.aifb.kit.edu/services/xlike-lexicon/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://kwijibo.talis.com/latc-linksets/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://laas.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lab.environment.data.gov.au/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lab3.libris.kb.se/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://labs.mondeca.com/endpoint/ends",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ld.panlex.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ldf.fi/ww1lod/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://lexinfo.net/corpora/alpino/query.php",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://libver.math.auth.gr/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linguistic.linkeddata.es/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://linguistic.linkeddata.es/terminesp/sparql-editor",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://link.informatics.stonybrook.edu/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linked-data.org/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://linked.opendata.cz/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://linkedarc.net/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linkeddata.es/resource/ldqm/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://linkeddata.finki.ukim.mk/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://linkeddata.ge.imati.cnr.it:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linkeddata.uriburner.com/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://linkeddata4.dia.fi.upm.es:8907/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linkedgeodata.org/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://linkedlifedata.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linkedopencommerce.com/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://linkedspending.aksw.org/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://linkedspl.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linkedu.eu/catalogue/sparql/",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://lisbon.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://live.dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://lobid.org/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.ac/bdls/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.apc.gov.tw/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.b3kat.de/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://lod.euscreen.eu/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://lod.gesis.org/thesoz/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.hebis.de/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.kaist.ac.kr/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.kipo.kr/data/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.my-eventos.com/en/services/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.openlinksw.com/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://lod.sztaki.hu/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://lod.xdams.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://lodstats.aksw.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lofd.tw.rpi.edu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://logd.tw.rpi.edu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lov.okfn.org/endpoint/lov",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://lsd.taxonconcept.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lsr.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://meducator.open.ac.uk/resourcesrestapi/rest/meducator/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://meharry.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://mesh.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://mgi.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://minsky.gsi.dit.upm.es/semanticwiki/index.php/Special:SPARQLEndpoint",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://miuras.inf.um.es/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://mlode.nlp2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://modip.aueb.gr/d2rq/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://montana.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://msm.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://n-lex.publicdata.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://ncbigene.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ndb.publink.lod2.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://ndc.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://netpath.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://neuroweb.med.yale.edu:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://newcastle.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://nextprot.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://nl.dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://nomisma.org/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://notube.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://nsf.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://oai.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://oecd.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ohsu.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://omim.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://onto.beef.org.pl/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://onto.mondis.cz/openrdf-sesame/repositories/mondis-record-owlim",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://opendap.tw.rpi.edu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://opendata-bundestag.de/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://opendata.aragon.es/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://opendata.ccd.uniroma2.it/LMF/sparql/select",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://opendatacommunities.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://openuplabs.tso.co.uk/sparql/gov-education",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://orphanet.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://os.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://os.services.tso.co.uk/geo/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://pathwaycommons.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://pharmgkb.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://photos.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://pid.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://pisa.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://platform.uberblic.org/api/v1/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://pomelo.iis.sinica.edu.tw:2020/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://prelex.publicdata.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://premon.fbk.eu/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://provenanceweb.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://psm.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://pt.dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://pubchem.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://publicspending.medialab.ntua.gr/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://pubmed.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://purl.org/openbibliosets/iucrsparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://purl.org/twc/arrayexpress/virtuoso/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://purl.org/twc/hub/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://purl.org/weso/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://rae2001.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://rdf.disgenet.org/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://rdf.farmbio.uu.se/chembl/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://rdf.muninn-project.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://rdf.myexperiment.org/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://rdf.ng-london.org.uk/raphael",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://rdfabout.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://reactome.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://resex.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://resource.geolba.ac.at/PoolParty/sparql/GeologicTimeScale",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://resource.geolba.ac.at/PoolParty/sparql/GeologicUnit",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://resource.geolba.ac.at/PoolParty/sparql/lithology",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://resource.geolba.ac.at/PoolParty/sparql/tectonicunit",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://resrev.ilrt.bris.ac.uk/data-server-workshop/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://revyu.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://rhea.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://rijksmuseum.dydra.com/lizzyjongma/rijksmuseum-collection/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ring.ciard.net/sparql1",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://risks.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://river.styx.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://roma.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://roni.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ruian.linked.opendata.cz/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://sabiork.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://seek.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://semantic-web-journal.com:3030/sparql.tpl",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://semantic.ckan.net/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://semantic.eea.europa.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://semanticweb.cs.vu.nl/dss/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://semanticweb.cs.vu.nl/europeana/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://semanticweb.cs.vu.nl/iati/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://semanticweb.cs.vu.nl/verrijktkoninkrijk/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://serendipity.utpl.edu.ec/lod/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://services.data.gov.uk/business/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.data.gov.uk/education/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.data.gov.uk/environment/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.data.gov.uk/patents/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.data.gov.uk/reference/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.data.gov.uk/research/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.data.gov.uk/statistics/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.data.gov.uk/transport/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.data.gov/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.insemtives.eu/forest/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://setaria.oszk.hu/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://sgd.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sider.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://skos.um.es/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://smartlink.open.ac.uk/smartlink/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://soa4all.isoco.net/luf/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://socialarchive.iath.virginia.edu/sparql/eac",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://socialarchive.iath.virginia.edu/sparql/snac-viaf",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://sonicbanana.cs.wright.edu:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://southampton.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql-procomun.educalab.es/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.contextdatacloud.org",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.data.southampton.ac.uk/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://sparql.jesandco.org:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.kupkb.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.linkedopendata.it/cap",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.linkedopendata.it/grrp",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.linkedopendata.it/grrt",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.linkedopendata.it/istat",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.linkedopendata.it/loc",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.linkedopendata.it/los",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.linkedopendata.it/musei",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.linkedopendata.it/scuole",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.msc2010.org",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://sparql.neurocommons.org:8890/nsparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.odw.tw",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://sparql.openmobilenetwork.org",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.reegle.info/",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://sparql.sindice.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.sstu.ru:3030/speciality-vocabulary/query",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.uniprot.org",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://sparql.wikipathways.org/",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://sparql.yovisto.com/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://spatial.ucd.ie/lod/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://spending.lichfielddc.gov.uk/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://spike.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sw.unime.it:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://symbolicdata.org:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://taxonomy.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://tcga.deri.ie",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://telegraphis.net/data/countries/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://tkm.kiom.re.kr/ontology/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://tour-pedia.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://transparency.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://tsu.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://tuskegee.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://twarql.org:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://uccaribe.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://uis.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ulm.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://unlocode.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://unodc.publicdata.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://upr.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://utep.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://utsa.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://virtuoso-eurosentiment.paradigmatecnologico.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://visualdataweb.infor.uva.es/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://vocab.getty.edu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://vocab.nerc.ac.uk/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://vocabularies.unesco.org/sparql-form/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://vocabulary.semantic-web.at/PoolParty/sparql/AustrianSkiTeam",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://vocabulary.semantic-web.at/PoolParty/sparql/OpenData",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://vocabulary.semantic-web.at/PoolParty/sparql/semweb",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://vocabulary.wolterskluwer.de/PoolParty/sparql/arbeitsrecht",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://vocabulary.wolterskluwer.de/PoolParty/sparql/court",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://webconf.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://webenemasuno.linkeddata.es/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://webscience.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://wiki.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://wikidata.dbpedia.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://wikipathways.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://wiktionary.dbpedia.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://wordnet.okfn.gr:8890/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://wordnet.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://worldbank.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://wormbase.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.archivesdefrance.culture.gouv.fr/thesaurus/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.auth.gr/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.crystallography.net:2020/snorql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.ebi.ac.uk/rdf/services/atlas/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.eclap.eu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.icane.es/opendata/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.ida.liu.se/projects/semtech/openrdf-sesame/repositories/energy",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.imagesnippets.com/sparql/images",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://www.inertia-linkeddata.iti.gr:9090/inertia-endpoint/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.influencetracker.com:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.linklion.org:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.lotico.com:3030/lotico/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://www.open-biomed.org.uk/sparql/endpoint/bdgp_20081030",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://www.open-biomed.org.uk/sparql/endpoint/flyatlas",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://www.open-biomed.org.uk/sparql/endpoint/flybase",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://www.open-biomed.org.uk/sparql/endpoint/flyted",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://www.open-biomed.org.uk/sparql/endpoint/tcm",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://www.opmw.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.rdfabout.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.rechercheisidore.fr/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://www.sparql.org/sparql.html",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/cordis/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/dailymed/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/dblp/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/diseasome/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/drugbank/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/eccompetition/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/euraxess/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/eures/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/eurostat/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/factbook/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/gutendata/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/medicare/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/sider/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/stitch/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://xula.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://zaire.dimis.fim.uni-passau.de:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://zbw.eu/beta/sparql/stw/query",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://zhishi.me/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://data.ox.ac.uk/sparql/",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "https://dbmi-icode-01.dbmi.pitt.edu/dikb/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://dbmi-icode-01.dbmi.pitt.edu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://eagle-i.ea.vanderbilt.edu/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://stirdf.jglobal.jst.go.jp/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://w3id.org/scholarlydata/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://www.ebi.ac.uk/rdf/services/biomodels/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://www.ebi.ac.uk/rdf/services/biosamples/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://www.ebi.ac.uk/rdf/services/chembl/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://www.ebi.ac.uk/rdf/services/reactome/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://resource.geolba.ac.at/PoolParty/sparql/GeologicUnit",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://resource.geolba.ac.at/PoolParty/sparql/structure",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://resource.geolba.ac.at/PoolParty/sparql/GeologicTimeScale",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://resource.geolba.ac.at/PoolParty/sparql/tectonicunit",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://resource.geolba.ac.at/PoolParty/sparql/lithology",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://opendatacommunities.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://data.surreycc.gov.uk/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://statistics.data.gov.uk/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://gov.tso.co.uk/coins/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://openuplabs.tso.co.uk/sparql/gov-coins",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://openuplabs.tso.co.uk/?url=http://gov.tso.co.uk/legislation/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://webarchive.nationalarchives.gov.uk/+/http://gov.tso.co.uk/legislation/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linked-development.org/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://bnb.data.bl.uk/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://linguistic.linkeddata.es/apertium/sparql-editor/",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://linguistic.linkeddata.es/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://vocab.getty.edu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://collection.britishmuseum.org/Sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://opendata.computas.no:7011/joseki",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://risp.asturias.es/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://ckannet-storage.commondatastorage.googleapis.com/2014-05-27T19:10:22.652Z/dogdb-queries-tar.gz",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://semantic.eea.europa.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://gho.aksw.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ontology.irstea.fr/weather/snorql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://kdata.kr/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://us.patents.aksw.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.linkedopendata.it/scuole",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.nl.go.kr/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.lirmm.fr/openrdf-workbench/repositories/Passim/query",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://arcdev.housing.salle.url.edu/repener/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://triples.cerch.kcl.ac.uk:51515/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://digitale.bncf.firenze.sbn.it/openrdf-workbench/repositories/NS/saved-queries",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://opendata.caceres.es/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://lobid.org/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://europeana.ontotext.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.rdfabout.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://visualdataweb.infor.uva.es/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://abs.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://91.239.64.176:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lab.environment.data.gov.au/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://aemet.linkeddata.es/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://agrinepaldata.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://202.45.139.84:10035/catalogs/fao/repositories/agris",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://202.45.139.84:10035/catalogs/fao/repositories/agrovoc",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://aksw.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://adl-gazetteer.geog.ucsb.edu:3030/adl/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://aliada.scanbit.net:8891/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.allie.dbcls.jp/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://lexinfo.net/corpora/alpino/query.php",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.aucklandmuseum.com",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://imash.leeds.ac.uk:8080/openrdf-workbench/repositories/AMOnSPARQL/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://semanticweb.cs.vu.nl/europeana/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://opendata.aragon.es/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://data.archiveshub.ac.uk/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dati.isma.roma.it/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.ariadne-eu.org/sparql.tpl",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.auth.gr/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://purl.org/twc/arrayexpress/virtuoso/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.jesandco.org:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linked.opendata.cz/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://modip.aueb.gr/d2rq/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://vocabulary.semantic-web.at/PoolParty/sparql/AustrianSkiTeam",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.b3kat.de/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://babelnet.org/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/bbc-backstage/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/bbc-wildlife/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.open-biomed.org.uk/sparql/endpoint/bdgp_20081030",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://fintrans.publicdata.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://bfs.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.bibbase.org:2020/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://afcsid.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://affymetrix.bio2rdf.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://biomodels.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://biopax.biomodels.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://bioportal.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://chembl.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://clinicaltrials.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ctd.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dbsnp.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://drugbank.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://genage.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://genbank.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://gendr.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://goa.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://hgnc.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://homologene.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://inoh.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://interpro.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://iproclass.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://irefindex.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://kegg.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://biopax.kegg.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linkedspl.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lsr.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://mesh.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://mgi.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ncbigene.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ndc.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://netpath.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://nextprot.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://omim.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://orphanet.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://pathwaycommons.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://pharmgkb.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://biopax.pharmgkb.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://pid.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://pubchem.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://pubmed.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://reactome.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://rhea.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sabiork.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sgd.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sider.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://spike.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://taxonomy.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://wikipathways.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://wormbase.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://logd.tw.rpi.edu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://biolit.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://www.ebi.ac.uk/rdf/services/biomodels/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://www.ebi.ac.uk/rdf/services/biosamples/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://bis.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://helheim.deusto.es/bizkaisense/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dati.camera.it/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/bricklink/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://opendata-bundestag.de/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.data.gov.uk/business/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://river.styx.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.linkedopendata.it/cap",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://catalogus-professorum.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://chebi.bio2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://www.ebi.ac.uk/rdf/services/chembl/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://semantic.ckan.net/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.reegle.info/",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://zaire.dimis.fim.uni-passau.de:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.crystallography.net:2020/snorql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://colinda.org/endpoint.php",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.colinda.org/endpoint.php",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://purl.org/weso/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.copac.ac.uk/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://core.kmi.open.ac.uk/squery",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://eris.okfn.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://vocabulary.wolterskluwer.de/PoolParty/sparql/court",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://156.35.31.156/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://140.109.28.64:2020/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://crtm.linkeddata.es/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://crystaleye.ch.cam.ac.uk/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.fundacionctic.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://cultura.linkeddata.es/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://linked.opendata.cz/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://nkod.opendata.cz/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://ruian.linked.opendata.cz/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://data.cnr.it/sparql-proxy/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.data.gov/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data-gov.ie/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.hnm.hu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/climb/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/metoffice/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/moseley/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/musicbrainz/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/nasa/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/airports/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/pokedex/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/smcjournals/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.open.ac.uk/query",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://sparql.data.southampton.ac.uk/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://data.szepmuveszeti.hu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://datos.artium.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://datos.bcn.cl/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://datos.bne.es/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://kaiko.getalp.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://commons.dbpedia.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://de.dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://el.dbpedia.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://es.dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://eu.dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://fr.dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://ja.dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://live.dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://nl.dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://pt.dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://wikidata.dbpedia.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dbtune.org/classical/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://dbtune.org/bbc/peel/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://dbtune.org/magnatune/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://dbtune.org/musicbrainz/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://dbtune.org/myspace/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://gov.tso.co.uk/dclg/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.lod2.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://ndb.publink.lod2.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://dewey.info/sparql.php",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://rdf.disgenet.org/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://linkeddata.finki.ukim.mk/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://data.duraark.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://doc.metalex.eu:8000/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dutchshipsandsailors.nl/data/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://semanticweb.cs.vu.nl/dss/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://alaska.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://cau.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ccny-cuny.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://cdrewu.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dartmouth.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://famu.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://harvard.eagle-i.net/sparqler/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://hawaii.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://howard.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://hunter-cuny.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://jsu.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://meharry.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://montana.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://msm.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ohsu.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://psm.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://tsu.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://tuskegee.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://uccaribe.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://upr.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://utep.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://utsa.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://eagle-i.ea.vanderbilt.edu/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://xula.eagle-i.net/sparqler/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ecb.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ecb.publicdata.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/ecco-tcp-eighteenth-century-collections-online-texts/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://www.eclap.eu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://kent.zpr.fer.hr:8080/educationalProgram/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.data.gov.uk/education/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://openuplabs.tso.co.uk/sparql/gov-education",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://cr.eionet.europa.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.ege.edu.tr/ep/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://edit.elte.hu/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://webenemasuno.linkeddata.es/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://www.ida.liu.se/projects/semtech/openrdf-sesame/repositories/energy",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://heritagedata.org/live/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/english-heritage/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://enipedia.tudelft.nl/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://environment.data.gov.uk/sparql/bwq/query",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://linkeddata.ge.imati.cnr.it:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.data.gov.uk/environment/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://epo.publicdata.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://foreign.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://agencies.publicdata.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/eumida/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/eupmedia/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://eur-lex.publicdata.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/eurobarometer/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/elections/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://virtuoso-eurosentiment.paradigmatecnologico.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://idi.fundacionctic.org/classifications_endpoint/eurovoc",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.euscreen.eu/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/eutc-productions/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/whoiswho/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://eventmedia.eurecom.fr/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://eculture2.cs.vu.nl:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://factforge.net/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://fao.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://rdf.farmbio.uu.se/chembl/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://farolas.linkeddata.es/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://http://crashmap.okfn.gr:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/federal-reserve-economic-data/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://www.open-biomed.org.uk/sparql/endpoint/flybase",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://www.open-biomed.org.uk/sparql/endpoint/flyted",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://kasabi.com/api/sparql-endpoint-foodista",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/foodista/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://foodpedia.tk/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.linkedu.eu/forge/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://frb.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/cordis/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/dailymed/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/dblp/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/diseasome/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/drugbank/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/eccompetition/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/euraxess/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/eures/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/eurostat/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/medicare/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/gutendata/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/sider/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/stitch/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://cr3.eionet.europa.eu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.ebi.ac.uk/rdf/services/atlas/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://os.services.tso.co.uk/geo/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://geo.linkeddata.es/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://lsd.taxonconcept.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://vocabulary.wolterskluwer.de/PoolParty/sparql/arbeitsrecht",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.gesis.org/thesoz/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ckan.eurohelp.es:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.globalchange.gov/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://extbi.lab.aau.dk/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://govwild.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://wordnet.okfn.gr:8890/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.linkedopendata.it/grrp",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.linkedopendata.it/grrt",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://hcls.deri.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.hebis.de/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://helheim.deusto.es/hedatuz/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://greek-lod.auth.gr/fire-brigade/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://greek-lod.auth.gr/police/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.noticias.universia.net/d2r-server/snorql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.linkedu.eu/hud/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://setaria.oszk.hu/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://semanticweb.cs.vu.nl/iati/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.icane.es/opendata/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ichoose.tw.rpi.edu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://identifiers.org/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://mlode.nlp2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.odw.tw",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://www.imagesnippets.com/sparql/images",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://imf.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.inertia-linkeddata.iti.gr:9090/inertia-endpoint/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.influencetracker.com:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.ngii.go.kr/SPARQL/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://greek-lod.math.auth.gr/intervalue/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://iserve.kmi.open.ac.uk/iserve/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://156.35.82.103/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.rechercheisidore.fr/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://dati.isprambiente.it/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://sparql.linkedopendata.it/istat",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://purl.org/openbibliosets/iucrsparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dbtune.org/jamendo/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://stirdf.jglobal.jst.go.jp/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://202.73.13.50:55824/catalogs/performance/repositories/jita",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/jgoodwin-genealogy/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://greek-lod.math.auth.gr/kalikratis/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/openflights-routes/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://sonicbanana.cs.wright.edu:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.kipo.kr/data/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.kaist.ac.kr/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.kupkb.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dblp.l3s.de/d2r/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.linkededucation.org/request/lak-conference/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://kwijibo.talis.com/latc-linksets/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://corpora.nlp2rdf.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linkeddata.es/resource/ldqm/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://gov.tso.co.uk/legislation/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://demo.spraakdata.gu.se/ltlod/test/",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://lab3.libris.kb.se/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://libver.math.auth.gr/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://spending.lichfielddc.gov.uk/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linkedarc.net/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.contextdatacloud.org",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.linkedct.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linkedgeodata.org/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/rsinger-dev4/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linkedlifedata.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.logainm.ie/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://data.linkedmdb.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.aalto.fi/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.linkedopendata.it/loc",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linkedopencommerce.com/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://ecowlim.tfri.gov.tw/sparql/query",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.linkedopendata.it/los",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lov.okfn.org/endpoint/lov",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://linkedspending.aksw.org/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://helheim.deusto.es/linkedstats/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://dbmi-icode-01.dbmi.pitt.edu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://tcga.deri.ie",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linkedu.eu/catalogue/sparql/",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://soa4all.isoco.net/luf/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.linklion.org:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://id.sgcb.mcu.es/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.ac/bdls/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.my-eventos.com/en/services/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lodstats.aksw.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.uni-muenster.de/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lofd.tw.rpi.edu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sw.unime.it:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/datagovuk/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.lotico.com:3030/lotico/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://geografia.ideca.gov.co/fuseki/dataset.html?tab=query&ds=/inf",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/massobservation/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://meducator.open.ac.uk/resourcesrestapi/rest/meducator/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://onto.mondis.cz/openrdf-sesame/repositories/mondis-record-owlim",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://apps.morelab.deusto.es/labman/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://sparql.msc2010.org",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://rdf.muninn-project.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://sparql.linkedopendata.it/musei",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/musicnet/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://rdf.myexperiment.org/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://futurewavehosting.com:3030/my-family-lineage/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://id.ndl.go.jp/auth/ndla/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://id.ndl.go.jp/auth/ndlsh/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://sparql.neurocommons.org:8890/nsparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://n-lex.publicdata.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.nobelprize.org/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://nomisma.org/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.lenka.no/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.nature.com/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/gunnbib-digitalmanuskripter/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/nvd/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://vocab.nerc.ac.uk/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://data.oceandrilling.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.opendiscoveryspace.eu/sparql.tpl",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://oecd.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://miuras.inf.um.es/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://onto.beef.org.pl/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.open-biomed.org.uk/sparql/endpoint/flyatlas",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.linkedu.eu/ocw/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.utpl.edu.ec/ecuadorresearch/lod/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://vocabulary.semantic-web.at/PoolParty/sparql/OpenData",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://opendata.ccd.uniroma2.it/LMF/sparql/select",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://en.openei.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://lod.openlinksw.com/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://sparql.openmobilenetwork.org",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://apps.ideaconsult.net:8080/ontology",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/ordnance-survey/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.organic-edunet.eu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.organic-edunet.eu/snorql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://spatial.ucd.ie/lod/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.linkedu.eu/don/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.ox.ac.uk/sparql/",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "https://data.ox.ac.uk/sparql/",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/pali-english-lexicon/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://ld.panlex.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.data.gov.uk/patents/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linked-data.org/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://prelex.publicdata.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/prelinger-archives/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://premon.fbk.eu/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/pbac/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql-procomun.educalab.es/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.linkedu.eu/prod/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/productdb/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://provenanceweb.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.sparql.org/sparql.html",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://publicspending.medialab.ntua.gr/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.bibsys.no/data/query_authority.html",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://rdf.ng-london.org.uk/raphael",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://linkeddata4.dia.fi.upm.es:8907/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://www.ebi.ac.uk/rdf/services/reactome/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://eculture2.cs.vu.nl:5020/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.data.gov.uk/reference/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.xdams.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/renewable-energy-generators/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://services.data.gov.uk/research/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://revyu.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://rijksmuseum.dydra.com/lizzyjongma/rijksmuseum-collection/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.rism.info/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://acm.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://budapest.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://citeseer.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://cordis.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://courseware.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://crime.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://crm.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://curriculum.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://darmstadt.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dblp.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://deepblue.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://deploy.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://digitaleconomy.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dotac.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ecs.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://enaktingpsi.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://eprints.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://epsrc.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://era.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://eurecom.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://foreign.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ft.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://fun.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://gdlc.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ibm.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ieee.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://irit.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://italy.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://jisc.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://kaunas.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://kisti.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://laas.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lisbon.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://newcastle.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://notube.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://nsf.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://oai.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://os.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://photos.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://pisa.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://rae2001.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://resex.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://risks.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://roma.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://roni.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://southampton.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ulm.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://unlocode.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://webconf.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://webscience.rkbexplorer.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://wiki.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://wordnet.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.sstu.ru:3030/speciality-vocabulary/query",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://link.informatics.stonybrook.edu/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://biordf.net/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/sanskrit-english-lexicon/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://212.81.220.68:2020/elviajero",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/schemapedia/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://w3id.org/scholarlydata/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://aseg.cs.concordia.ca/secold/sparqlendpoint",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://rdfabout.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://seek.rkbexplorer.com/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://el-devtc01.tugraz.at/~ldv/interlinking/endpoint_handler.php",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.semanticuniverse.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.semanticweb.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://semantic-web-journal.com:3030/sparql.tpl",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://cb.semsol.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://http://opendata.intellidomo.es:8080/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://serendipity.utpl.edu.ec/lod/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://data.linkedu.eu/slidewiki/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://smartlink.open.ac.uk/smartlink/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://socialarchive.iath.virginia.edu/sparql/eac",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://socialarchive.iath.virginia.edu/sparql/snac-viaf",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://vocabulary.semantic-web.at/PoolParty/sparql/semweb",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://linguistic.linkeddata.es/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://labs.mondeca.com/endpoint/ends",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.data.gov.uk/statistics/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://crashmap.okfn.gr:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://zbw.eu/beta/sparql/stw/query",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://sparql.sindice.com/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://symbolicdata.org:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.sztaki.hu/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://pomelo.iis.sinica.edu.tw:2020/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/openlibrary/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://hcls.deri.org:8080/openrdf-sesame/repositories/tcga",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://agalpha.mathbiol.org/repositories/tcga",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.open-biomed.org.uk/sparql/endpoint/tcm",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.linkededucation.org/request/ted/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://telegraphis.net/data/countries/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://asev.l3s.uni-hannover.de:8085/openrdf-sesame/repositories/TERENCE_STORY",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linguistic.linkeddata.es/terminesp/sparql-editor",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://academia6.poolparty.biz/PoolParty/sparql/Tesauro-Materias-BUPM",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://apps.morelab.deusto.es/teseo/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://diwis.imis.athena-innovation.gr:8181/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ring.ciard.net/sparql1",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "https://dbmi-icode-01.dbmi.pitt.edu/dikb/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://eurostat.linked-statistics.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://digitale.bncf.firenze.sbn.it/openrdf-workbench/repositories/NS/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://www.archivesdefrance.culture.gouv.fr/thesaurus/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/theviewfrom/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.apc.gov.tw/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://tour-pedia.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://tkm.kiom.re.kr/ontology/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/trafficscotland/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://transparency.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.data.gov.uk/transport/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://gov.tso.co.uk/transport/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://twarql.org:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://healthdata.tw.rpi.edu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://purl.org/twc/hub/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ieeevis.tw.rpi.edu/nosparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://opendap.tw.rpi.edu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://platform.uberblic.org/api/v1/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.bib.uni-mannheim.de/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://uis.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://skos.um.es/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://vocabularies.unesco.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/un-hazardous-material-numbers/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://sparql.uniprot.org",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://data.linkedu.eu/kis1112/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.linkedu.eu/kis/query",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://193.145.57.56:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://resrev.ilrt.bris.ac.uk/data-server-workshop/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://unodc.publicdata.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://linkeddata.uriburner.com/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://data.lider-project.eu/usage/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://dacura.cs.tcd.ie/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.utpl.edu.ec/utpl/lod/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://semanticweb.cs.vu.nl/verrijktkoninkrijk/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://minsky.gsi.dit.upm.es/semanticwiki/index.php/Special:SPARQLEndpoint",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.wikipathways.org/",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://wiktionary.dbpedia.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www.opmw.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://worldbank.270a.info/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://www4.wiwiss.fu-berlin.de/factbook/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ldf.fi/ww1lod/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://km.aifb.kit.edu/services/xlike-lexicon/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.kasabi.com/dataset/yahoo-geoplanet/apis/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://neuroweb.med.yale.edu:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.yovisto.com/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://zhishi.me/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://linkedmanchester.org/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://opendata.caceres.es/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://data.salzburgerland.com/dataset/accomodations",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.salzburgerland.com/dataset/accommodations",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.salzburgerland.com/dataset/events",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.salzburgerland.com/dataset/local-businesses",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.salzburgerland.com/dataset/places",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.salzburgerland.com/dataset/products",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.salzburgerland.com/dataset/salzburgerland",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.cervantesvirtual.com/geosearch",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://83.212.169.101:8890/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://esb.goteborg.se/TEIK/001/Kalendarie/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.nobelprize.org/sparql/",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://landregistry.data.gov.uk/landregistry/sparql/sparql.html",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://openuplabs.tso.co.uk/sparql/gov-legislation",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://rlink.cineca.it/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod-cloud.net/data/void.ttl",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://vocab.getty.edu/queries",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://services.insemtives.eu/forest/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://api.talis.com/stores/lcsh-info/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://www.europeandataportal.eu/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://data.cssz.cz/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://cedropendata.mfcr.cz/c3lod/cedr/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://lod.csd.auth.gr:7200/repositories/DBpediaCitation_links",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://data.epo.org/linked-data/query",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://94.199.43.20/odrpp/sparql/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "https://data.gov.cz/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://rpp-opendata.egon.gov.cz/odrpp/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://data.nationallibrary.fi/bib/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://snap.dighum.kcl.ac.uk/query/",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://ld.iospress.nl:3030/ios/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://statistics.gov.scot/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://www.ebi.ac.uk/rdf/services/sparql",
+      "status": "unavailable"
+    },
+    {
+      "endpoint": "http://sparql.orthodb.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://id.nlm.nih.gov/mesh/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://sparql.uniprot.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://data.gov.cz/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://dev.nkod.opendata.cz/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://linked.opendata.cz/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://dbpedia.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://www.scholarlydata.org/sparql/",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://ldf.fi/ww1lod/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://ruian.linked.opendata.cz/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://data.ox.ac.uk/sparql/",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "https://openei.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://linkedgeodata.org/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "http://setaria.oszk.hu/sparql",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://semantic.eea.europa.eu/sparql",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "https://environment.data.gov.uk/sparql/bwq/query",
+      "status": "available"
+    },
+    {
+      "endpoint": "https://environment.data.gov.uk/bwq/sparql.html",
+      "status": "invalid"
+    },
+    {
+      "endpoint": "http://data.allie.dbcls.jp/sparql",
+      "status": "available"
+    }
+  ]
+}
