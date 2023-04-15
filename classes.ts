@@ -46,7 +46,7 @@ async function queryCallback(endpointUrl: string, res?: Response) {
   }
   if (pendingEndpoints.size === 0) {
     console.log('All endpoints resolved or timed out, saving all responses')
-    Deno.writeTextFileSync('./responses.json', JSON.stringify(queryResponses))
+    Deno.writeTextFileSync('./classes.json', JSON.stringify(queryResponses))
   }
 }
 
@@ -59,9 +59,6 @@ async function queryCallback(endpointUrl: string, res?: Response) {
 export function queryEndpoint(endpoint: URL, query: string) {
   let queryURL = endpoint + '?query=' + encodeURIComponent(query)
   queryURL += '&format=application%2Fsparql-results%2Bjson'
-
-  console.log(queryURL)
-
   return fetch(queryURL, {
     signal: AbortSignal.timeout(60 * 1000),
   })
@@ -79,27 +76,4 @@ export function getClassesQuery(offset: number, count: number) {
     OFFSET ${offset}`
 }
 
-export function getAttributesQuery(classURI: string) {
-  return `
-    SELECT DISTINCT ?attribute ?type (COUNT(1) AS ?instanceCount)
-    WHERE {
-      ?instance
-          a <${classURI}> ;
-        ?attribute ?targetLiteral
-      FILTER isLiteral(?targetLiteral)
-      BIND(datatype(?targetLiteral) AS ?type)
-    }
-    ORDER BY DESC(?instanceCount)
-    `
-}
 
-export function getClassLinksQuery(class1URI: string, class2URI: string) {
-  return `
-    SELECT DISTINCT ?property (COUNT(*) AS ?instanceCount)
-    WHERE {
-      ?class1 a <${class1URI}> .
-      ?class2 a <${class2URI}> .
-      ?class1 ?property ?class2 .
-    }
-  `
-}
