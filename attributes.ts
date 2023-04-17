@@ -1,3 +1,5 @@
+import { queryEndpoint } from './querying.ts'
+
 export function getAttributesQuery(classURI: string) {
   return `
     SELECT DISTINCT ?attribute ?type (COUNT(1) AS ?instanceCount)

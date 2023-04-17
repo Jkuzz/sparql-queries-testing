@@ -1,3 +1,5 @@
+import { queryEndpoint } from './querying.ts'
+
 type EndpointDescriptor = {
   endpoint: string
   status: string
@@ -25,43 +27,29 @@ endpoints.forEach((endpointUrl) => {
       .then((res) => queryCallback(endpointUrl, res))
   } catch (error) {
     console.log(`Failed query of endpoint: <${endpointUrl}>`, error)
-    queryResponses[endpointUrl] = 'error'
+    queryResponses[endpointUrl] = 'node: error'
   }
 })
 
 async function queryCallback(endpointUrl: string, res?: Response) {
   pendingEndpoints.delete(endpointUrl)
   console.log('Remaining endpoints: ' + pendingEndpoints.size)
-  queryResponses[endpointUrl] = 'unknown error'
+  queryResponses[endpointUrl] = 'node: unknown error'
   if (!res) {
-    queryResponses[endpointUrl] = 'no response'
+    queryResponses[endpointUrl] = 'node: no response'
   } else if (!res.ok) {
-    queryResponses[endpointUrl] = 'invalid response'
+    queryResponses[endpointUrl] = 'node: invalid response'
   } else {
     try {
       queryResponses[endpointUrl] = await res.json()
     } catch (_error) {
-      queryResponses[endpointUrl] = 'response parsing error'
+      queryResponses[endpointUrl] = 'node: response parsing error'
     }
   }
   if (pendingEndpoints.size === 0) {
     console.log('All endpoints resolved or timed out, saving all responses')
     Deno.writeTextFileSync('./classes.json', JSON.stringify(queryResponses))
   }
-}
-
-/**
- * Query the SPARQL endpoint with the given query and handle results
- * @param endpoint
- * @param query
- * @returns JSON response content promise
- */
-export function queryEndpoint(endpoint: URL, query: string) {
-  let queryURL = endpoint + '?query=' + encodeURIComponent(query)
-  queryURL += '&format=application%2Fsparql-results%2Bjson'
-  return fetch(queryURL, {
-    signal: AbortSignal.timeout(60 * 1000),
-  })
 }
 
 export function getClassesQuery(offset: number, count: number) {
@@ -75,5 +63,3 @@ export function getClassesQuery(offset: number, count: number) {
     LIMIT ${count}
     OFFSET ${offset}`
 }
-
-

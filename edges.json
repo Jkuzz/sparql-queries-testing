@@ -1,0 +1,2509 @@
+{
+  "http://data.open.ac.uk/query": "node: response parsing error",
+  "http://data.rism.info/sparql": "node: response parsing error",
+  "http://edit.elte.hu/sparql": "node: invalid response",
+  "http://heritagedata.org/live/sparql": "node: invalid response",
+  "http://id.ndl.go.jp/auth/ndla/": "node: response parsing error",
+  "http://id.ndl.go.jp/auth/ndlsh/": "node: response parsing error",
+  "http://linguistic.linkeddata.es/terminesp/sparql-editor": "node: response parsing error",
+  "http://lod.b3kat.de/sparql": "node: response parsing error",
+  "http://lod.openlinksw.com/sparql": "node: no response",
+  "http://lod.sztaki.hu/sparql": "node: invalid response",
+  "http://onto.mondis.cz/openrdf-sesame/repositories/mondis-record-owlim": "node: response parsing error",
+  "http://opendatacommunities.org/sparql": "node: invalid response",
+  "http://skos.um.es/sparql/": "node: invalid response",
+  "http://sparql.data.southampton.ac.uk/": "node: response parsing error",
+  "http://sparql.uniprot.org": "node: no response",
+  "http://vocab.nerc.ac.uk/sparql/": "node: response parsing error",
+  "http://zbw.eu/beta/sparql/stw/query": "node: invalid response",
+  "http://statistics.data.gov.uk/sparql": "node: invalid response",
+  "http://opendata.caceres.es/sparql/": "node: invalid response",
+  "http://opendata.caceres.es/sparql": "node: invalid response",
+  "https://data.cssz.cz/sparql": "node: invalid response",
+  "http://lod.csd.auth.gr:7200/repositories/DBpediaCitation_links": "node: response parsing error",
+  "https://data.epo.org/linked-data/query": "node: invalid response",
+  "http://statistics.gov.scot/sparql": "node: invalid response",
+  "http://sparql.orthodb.org/sparql": "node: invalid response",
+  "http://id.nlm.nih.gov/mesh/sparql": "node: invalid response",
+  "http://sparql.uniprot.org/sparql": "node: no response",
+  "http://dbtune.org/musicbrainz/sparql": "edge: invalid response",
+  "http://dati.isprambiente.it/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://eventmedia.eurecom.fr/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://farolas.linkeddata.es/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://linkeddata.finki.ukim.mk/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://environment.data.gov.uk/sparql/bwq/query": "edge: invalid response",
+  "http://ldf.fi/ww1lod/sparql": "edge: invalid response",
+  "http://apps.morelab.deusto.es/labman/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://lod.euscreen.eu/sparql": "edge: invalid response",
+  "https://environment.data.gov.uk/sparql/bwq/query": "edge: invalid response",
+  "http://dati.camera.it/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://lod.xdams.org/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "https://ldf.fi/ww1lod/sparql": "edge: invalid response",
+  "http://data.nationallibrary.fi/bib/sparql": "edge: invalid response",
+  "http://data.logainm.ie/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": { "type": "uri", "value": "http://geovocab.org/spatial#P" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "13236"
+          }
+        }
+      ]
+    }
+  },
+  "http://webenemasuno.linkeddata.es/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": { "type": "uri", "value": "http://openprovenance.org/model/opmo#cause" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "315949"
+          }
+        }
+      ]
+    }
+  },
+  "http://www.scholarlydata.org/sparql/": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#isHeldBy"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "72865"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://purl.org/ontology/bibo/authorList" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6327"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1242"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasAuthorList"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6327"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasFirstItem"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6222"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#previous"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "14971"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#during"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "13010"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#holdsRole"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "72865"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#withOrganisation"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "174112"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasProceedings"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "5"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#isEventRelatedTo"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "306"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#relatesToEvent"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "306"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#withDocument"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "860"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#isSubEventOf"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1242"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://purl.org/dc/elements/1.1/creator" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "82074"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://purl.org/spar/pro/withRole" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "128544"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://www.w3.org/ns/org#hasMember" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "115896"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://xmlns.com/foaf/0.1/made" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "78724"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasItem"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "21189"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasLastItem"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6222"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#isAffiliationOf"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "115896"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#isPartOf"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "756"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#isProceedingsOf"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "5"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://www.w3.org/2002/07/owl#sameAs" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "8"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://data.semanticweb.org/ns/swc/ontology#isSubEventOf"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1242"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://www.w3.org/ns/org#member" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "115884"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://xmlns.com/foaf/0.1/maker" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "78724"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasAffiliation"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "115896"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasContent"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "101197"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasPart"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "756"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasSubEvent"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1242"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#next"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "14971"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#withRole"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "128544"
+          }
+        }
+      ]
+    }
+  },
+  "http://eu.dbpedia.org/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://de.dbpedia.org/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://opendata.aragon.es/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "https://dev.nkod.opendata.cz/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://www.imagesnippets.com/sparql/images": "edge: invalid response",
+  "http://dbpedia.org/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://fr.dbpedia.org/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "https://w3id.org/scholarlydata/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#isHeldBy"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "72865"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://purl.org/ontology/bibo/authorList" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6327"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1242"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasAuthorList"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6327"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasFirstItem"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6222"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#previous"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "14971"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#during"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "13010"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#holdsRole"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "72865"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#withOrganisation"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "174112"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasProceedings"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "5"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#isEventRelatedTo"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "306"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#relatesToEvent"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "306"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#withDocument"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "860"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#isSubEventOf"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1242"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://purl.org/dc/elements/1.1/creator" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "82074"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://purl.org/spar/pro/withRole" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "128544"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://www.w3.org/ns/org#hasMember" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "115896"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://xmlns.com/foaf/0.1/made" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "78724"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasItem"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "21189"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasLastItem"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6222"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#isAffiliationOf"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "115896"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#isPartOf"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "756"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#isProceedingsOf"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "5"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://www.w3.org/2002/07/owl#sameAs" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "8"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://data.semanticweb.org/ns/swc/ontology#isSubEventOf"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1242"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://www.w3.org/ns/org#member" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "115884"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://xmlns.com/foaf/0.1/maker" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "78724"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasAffiliation"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "115896"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasContent"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "101197"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasPart"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "756"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#hasSubEvent"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1242"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#next"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "14971"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#withRole"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "128544"
+          }
+        }
+      ]
+    }
+  },
+  "http://dbtune.org/magnatune/sparql/": {
+    "head": { "vars": ["property", "instanceCount"] },
+    "results": {
+      "bindings": [
+        {
+          "instanceCount": {
+            "type": "literal",
+            "value": "0",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+          }
+        }
+      ]
+    }
+  },
+  "http://serendipity.utpl.edu.ec/lod/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": { "type": "uri", "value": "http://es-la.dbpedia.org/test/property/actor" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://es-la.dbpedia.org/test/property/url" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "212624"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageExternalLink"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "161"
+          }
+        }
+      ]
+    }
+  },
+  "http://data.allie.dbcls.jp/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://premon.fbk.eu/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#annotation"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "3810635"
+          }
+        }
+      ]
+    }
+  },
+  "https://data.gov.cz/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://rdf.disgenet.org/sparql/": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": { "type": "uri", "value": "http://semanticscience.org/resource/SIO_000216" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1705576"
+          }
+        }
+      ]
+    }
+  },
+  "http://sparql.odw.tw": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://linked.opendata.cz/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "https://linked.opendata.cz/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://nl.dbpedia.org/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": { "type": "uri", "value": "http://xmlns.com/foaf/0.1/primaryTopic" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1544270"
+          }
+        }
+      ]
+    }
+  },
+  "http://datos.bcn.cl/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://es.dbpedia.org/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": { "type": "uri", "value": "http://purl.org/dc/terms/conformsTo" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://www.openlinksw.com/schema/attribution#isDescribedUsing"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "150"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://vocab.deri.ie/void#inDataset" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://xmlns.com/foaf/0.1/primaryTopic" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1132292"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://xmlns.com/foaf/0.1/topic" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "140"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://www.w3.org/1999/xhtml/vocab#license" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        }
+      ]
+    }
+  },
+  "http://datos.bne.es/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": { "type": "uri", "value": "https://datos.bne.es/def/OP6004" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "https://datos.bne.es/def/OP4001" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "11837449"
+          }
+        }
+      ]
+    }
+  },
+  "http://www.rechercheisidore.fr/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://rdf.muninn-project.org/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://ja.dbpedia.org/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://kaiko.getalp.org/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://linkedgeodata.org/sparql/": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://linkedgeodata.org/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "https://ruian.linked.opendata.cz/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": { "type": "uri", "value": "http://schema.org/geo" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "29511669"
+          }
+        }
+      ]
+    }
+  },
+  "http://ruian.linked.opendata.cz/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": { "type": "uri", "value": "http://schema.org/geo" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "29511669"
+          }
+        }
+      ]
+    }
+  },
+  "http://pt.dbpedia.org/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": { "type": "uri", "value": "http://xmlns.com/foaf/0.1/primaryTopic" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "518710"
+          }
+        }
+      ]
+    }
+  },
+  "http://live.dbpedia.org/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://en.openei.org/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": { "type": "uri", "value": "http://www.w3.org/2002/07/owl#sameAs" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "25266"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3APlace" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "10669"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3ASector" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "2759"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3ACity" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "61"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3ACountry" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "2"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AIncentive-2FTechDsc"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "29"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AIncentive-2FType"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1396"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://semantic-mediawiki.org/swivt/1.0#masterPage"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "648035"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://semantic-mediawiki.org/swivt/1.0#redirectsTo"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "25266"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3ARegion" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3APartOf" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "50423"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AIncentive-2FAddlPlace"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "21"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AUtility_Company"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "4567"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AServiceTerritory"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "2"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://xmlns.com/foaf/0.1/based_near" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "41"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ADeveloper"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "295"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AEnergyPurchaser"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "244"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3AOwner" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "205"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AWindTurbineManufacturer"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "130"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AGeographicScope"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3APartner" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AAwardeeHeadquarters"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "137"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AGeothermalArea"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AGeothermalRegion"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "105"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3AAwardee" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "89"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AAdditionalBenefitPlaces"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "2"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ATechnology"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "2"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ABuilding-2FCounty"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "123"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AOpenEI-2FUtilityRate-2FUtility"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "12"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AGeothermal-2FLocationOfProject"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "45"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3AOwners" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AIncentive-2FAddlPlaceCity"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "29"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AIncentive-2FAddlPlaceCounty"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "165"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AIncentive-2FAddlPlaceStates"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "125"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AOrganizations"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AApplicant"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "52"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AFundingAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "2"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AOverseeing_Organization"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AGeothermalDevelopmentPhases"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "7"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AManagingDistrictOffice"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "178"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AMineralManager"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "8"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ALeadAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "379"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AManagingFieldOffice"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "119"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ANEPA_Consultant"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ASurfaceManager"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "9"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3APrimary_Organization"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "25"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AWellFieldPermitAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "7"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AWaterRightAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ATransSitingAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "8"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ALeasingAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "8"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3APwrPlntSitingAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "5"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3APwrPlntPermitOfficesAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3APubUtilRegAuth"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ADrillingPermitAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "8"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3APredrillPermitAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AInSPIREIsResearchParentName"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AMREDeviceName"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AInSPIREProjectOwner"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "23"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AInSPIREAgrivoltaicPartners"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AInSPIREProjectDeveloper"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "2"
+          }
+        }
+      ]
+    }
+  },
+  "https://openei.org/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": { "type": "uri", "value": "http://www.w3.org/2002/07/owl#sameAs" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "25266"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3APlace" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "10669"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3ASector" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "2759"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3ACity" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "61"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3ACountry" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "2"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AIncentive-2FTechDsc"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "29"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AIncentive-2FType"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1396"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://semantic-mediawiki.org/swivt/1.0#masterPage"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "648035"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://semantic-mediawiki.org/swivt/1.0#redirectsTo"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "25266"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3ARegion" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3APartOf" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "50423"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AIncentive-2FAddlPlace"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "21"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AUtility_Company"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "4567"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AServiceTerritory"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "2"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://xmlns.com/foaf/0.1/based_near" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "41"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ADeveloper"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "295"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AEnergyPurchaser"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "244"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3AOwner" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "205"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AWindTurbineManufacturer"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "130"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AGeographicScope"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3APartner" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AAwardeeHeadquarters"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "137"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AGeothermalArea"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AGeothermalRegion"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "105"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3AAwardee" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "89"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AAdditionalBenefitPlaces"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "2"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ATechnology"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "2"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ABuilding-2FCounty"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "123"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AOpenEI-2FUtilityRate-2FUtility"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "12"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AGeothermal-2FLocationOfProject"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "45"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://openei.org/resources/Property-3AOwners" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AIncentive-2FAddlPlaceCity"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "29"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AIncentive-2FAddlPlaceCounty"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "165"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AIncentive-2FAddlPlaceStates"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "125"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AOrganizations"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AApplicant"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "52"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AFundingAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "2"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AOverseeing_Organization"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AGeothermalDevelopmentPhases"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "7"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AManagingDistrictOffice"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "178"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AMineralManager"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "8"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ALeadAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "379"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AManagingFieldOffice"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "119"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ANEPA_Consultant"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ASurfaceManager"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "9"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3APrimary_Organization"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "25"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AWellFieldPermitAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "7"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AWaterRightAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ATransSitingAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "8"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ALeasingAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "8"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3APwrPlntSitingAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "5"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3APwrPlntPermitOfficesAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3APubUtilRegAuth"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3ADrillingPermitAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "8"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3APredrillPermitAgency"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "6"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AInSPIREIsResearchParentName"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AMREDeviceName"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AInSPIREProjectOwner"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "23"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AInSPIREAgrivoltaicPartners"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://openei.org/resources/Property-3AInSPIREProjectDeveloper"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "2"
+          }
+        }
+      ]
+    }
+  },
+  "http://dbtune.org/classical/sparql/": {
+    "head": { "vars": ["property", "instanceCount"] },
+    "results": {
+      "bindings": [
+        {
+          "instanceCount": {
+            "type": "literal",
+            "value": "0",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+          }
+        }
+      ]
+    }
+  },
+  "http://dbtune.org/bbc/peel/sparql/": {
+    "head": { "vars": ["property", "instanceCount"] },
+    "results": {
+      "bindings": [
+        {
+          "instanceCount": {
+            "type": "literal",
+            "value": "0",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+          }
+        }
+      ]
+    }
+  },
+  "https://dbpedia.org/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": { "distinct": false, "ordered": true, "bindings": [] }
+  },
+  "http://linguistic.linkeddata.es/sparql/": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": { "type": "uri", "value": "http://www.lemon-model.net/lemon#isSenseOf" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "801377"
+          }
+        }
+      ]
+    }
+  },
+  "http://linguistic.linkeddata.es/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": { "type": "uri", "value": "http://www.lemon-model.net/lemon#isSenseOf" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "801377"
+          }
+        }
+      ]
+    }
+  },
+  "http://setaria.oszk.hu/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": { "type": "uri", "value": "http://purl.org/dc/terms/creator" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1326550"
+          }
+        },
+        {
+          "property": { "type": "uri", "value": "http://purl.org/dc/terms/contributor" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "789880"
+          }
+        }
+      ]
+    }
+  },
+  "http://dbtune.org/jamendo/sparql/": "edge: invalid response",
+  "http://cultura.linkeddata.es/sparql": "edge: invalid response",
+  "http://affymetrix.bio2rdf.org/sparql": "edge: invalid response",
+  "http://linkeddata.es/resource/ldqm/sparql": "edge: invalid response",
+  "http://linkeddata.uriburner.com/sparql": {
+    "head": { "link": [], "vars": ["property", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "property": { "type": "uri", "value": "http://www.w3.org/2007/05/powder-s#describedby" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "64866728"
+          }
+        },
+        {
+          "property": {
+            "type": "uri",
+            "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#subject"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "17641417"
+          }
+        }
+      ]
+    }
+  },
+  "http://geo.linkeddata.es/sparql": "edge: no response"
+}

@@ -94,7 +94,101 @@
       ]
     }
   },
-  "http://apps.morelab.deusto.es/labman/sparql": "no response",
+  "http://apps.morelab.deusto.es/labman/sparql": {
+    "head": { "link": [], "vars": ["class", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "class": { "type": "uri", "value": "http://xmlns.com/foaf/0.1/Document" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "333949"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://dbpedia.org/ontology/Image" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "170254"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "146874"
+          }
+        },
+        {
+          "class": {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "71913"
+          }
+        },
+        {
+          "class": {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Description"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "71913"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8161" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "71913"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://dbpedia.org/ontology/Tax" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "71913"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://dbpedia.org/ontology/TopicalConcept" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "71913"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://www.w3.org/2004/02/skos/core#Concept" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "66637"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://dbpedia.org/ontology/Place" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "57975"
+          }
+        }
+      ]
+    }
+  },
   "http://cultura.linkeddata.es/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -395,8 +489,8 @@
       ]
     }
   },
-  "http://data.open.ac.uk/query": "response parsing error",
-  "http://data.rism.info/sparql": "response parsing error",
+  "http://data.open.ac.uk/query": "node: response parsing error",
+  "http://data.rism.info/sparql": "node: response parsing error",
   "http://dati.camera.it/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -416,7 +510,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "1035574"
+            "value": "1035614"
           }
         },
         {
@@ -432,7 +526,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "476607"
+            "value": "476609"
           }
         },
         {
@@ -440,7 +534,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "411455"
+            "value": "411457"
           }
         },
         {
@@ -456,7 +550,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "229864"
+            "value": "229866"
           }
         },
         {
@@ -472,7 +566,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "125486"
+            "value": "125508"
           }
         },
         {
@@ -511,7 +605,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "140418"
+            "value": "143172"
           }
         },
         {
@@ -519,7 +613,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "68836"
+            "value": "70393"
           }
         },
         {
@@ -530,7 +624,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "62438"
+            "value": "63574"
           }
         },
         {
@@ -545,6 +639,14 @@
           }
         },
         {
+          "class": { "type": "uri", "value": "http://dati.isprambiente.it/ontology/core#Repair" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "22167"
+          }
+        },
+        {
           "class": {
             "type": "uri",
             "value": "http://dati.isprambiente.it/ontology/core#IndicatorCollection"
@@ -556,19 +658,11 @@
           }
         },
         {
-          "class": { "type": "uri", "value": "http://dati.isprambiente.it/ontology/core#Repair" },
-          "instanceCount": {
-            "type": "typed-literal",
-            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "21610"
-          }
-        },
-        {
           "class": { "type": "uri", "value": "http://dati.isprambiente.it/ontology/core#Contract" },
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "21286"
+            "value": "21610"
           }
         },
         {
@@ -579,7 +673,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "19018"
+            "value": "19349"
           }
         },
         {
@@ -590,7 +684,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "18876"
+            "value": "19264"
           }
         }
       ]
@@ -640,7 +734,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "856191"
+            "value": "856192"
           }
         },
         {
@@ -1386,7 +1480,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "1377836"
+            "value": "1377915"
           }
         },
         {
@@ -1394,7 +1488,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "690732"
+            "value": "690811"
           }
         },
         {
@@ -1402,7 +1496,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "690731"
+            "value": "690810"
           }
         },
         {
@@ -1413,7 +1507,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "690731"
+            "value": "690810"
           }
         },
         {
@@ -1451,7 +1545,7 @@
       ]
     }
   },
-  "http://edit.elte.hu/sparql": "response parsing error",
+  "http://edit.elte.hu/sparql": "node: invalid response",
   "http://en.openei.org/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -1463,7 +1557,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "2143792"
+            "value": "2143836"
           }
         },
         {
@@ -1756,7 +1850,101 @@
       ]
     }
   },
-  "http://eu.dbpedia.org/sparql": "no response",
+  "http://eu.dbpedia.org/sparql": {
+    "head": { "link": [], "vars": ["class", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "class": { "type": "uri", "value": "http://xmlns.com/foaf/0.1/Document" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "333949"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://dbpedia.org/ontology/Image" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "170254"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "146874"
+          }
+        },
+        {
+          "class": {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "71913"
+          }
+        },
+        {
+          "class": {
+            "type": "uri",
+            "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Description"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "71913"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8161" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "71913"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://dbpedia.org/ontology/Tax" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "71913"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://dbpedia.org/ontology/TopicalConcept" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "71913"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://www.w3.org/2004/02/skos/core#Concept" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "66637"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://dbpedia.org/ontology/Place" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "57975"
+          }
+        }
+      ]
+    }
+  },
   "http://eventmedia.eurecom.fr/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -2137,9 +2325,9 @@
       ]
     }
   },
-  "http://heritagedata.org/live/sparql": "invalid response",
-  "http://id.ndl.go.jp/auth/ndla/": "response parsing error",
-  "http://id.ndl.go.jp/auth/ndlsh/": "response parsing error",
+  "http://heritagedata.org/live/sparql": "node: invalid response",
+  "http://id.ndl.go.jp/auth/ndla/": "node: response parsing error",
+  "http://id.ndl.go.jp/auth/ndlsh/": "node: response parsing error",
   "http://ja.dbpedia.org/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -2251,7 +2439,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "15540185"
+            "value": "15540238"
           }
         },
         {
@@ -2259,7 +2447,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "14858773"
+            "value": "14858782"
           }
         },
         {
@@ -2275,7 +2463,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "10162716"
+            "value": "10162738"
           }
         },
         {
@@ -2283,7 +2471,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "8757633"
+            "value": "8757637"
           }
         },
         {
@@ -2307,7 +2495,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "1023605"
+            "value": "1023606"
           }
         },
         {
@@ -2506,7 +2694,7 @@
       ]
     }
   },
-  "http://linguistic.linkeddata.es/terminesp/sparql-editor": "response parsing error",
+  "http://linguistic.linkeddata.es/terminesp/sparql-editor": "node: response parsing error",
   "http://linked.opendata.cz/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -2803,7 +2991,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "22278661"
+            "value": "22329680"
           }
         },
         {
@@ -2811,7 +2999,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "10753706"
+            "value": "10753907"
           }
         },
         {
@@ -2819,7 +3007,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "10753330"
+            "value": "10753530"
           }
         },
         {
@@ -2830,7 +3018,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "10445880"
+            "value": "10445993"
           }
         },
         {
@@ -2838,7 +3026,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "4129628"
+            "value": "4130074"
           }
         },
         {
@@ -2849,7 +3037,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "3741697"
+            "value": "3758566"
           }
         },
         {
@@ -2857,7 +3045,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "2552881"
+            "value": "2574175"
           }
         },
         {
@@ -2865,7 +3053,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "2032151"
+            "value": "2040289"
           }
         },
         {
@@ -2876,7 +3064,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "1491616"
+            "value": "1496700"
           }
         },
         {
@@ -2884,7 +3072,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "1491599"
+            "value": "1496683"
           }
         }
       ]
@@ -3071,7 +3259,7 @@
       ]
     }
   },
-  "http://lod.b3kat.de/sparql": "response parsing error",
+  "http://lod.b3kat.de/sparql": "node: response parsing error",
   "http://lod.euscreen.eu/sparql": {
     "head": { "vars": ["class", "instanceCount"] },
     "results": {
@@ -3186,96 +3374,8 @@
       ]
     }
   },
-  "http://lod.openlinksw.com/sparql": "no response",
-  "http://lod.sztaki.hu/sparql": {
-    "head": { "link": [], "vars": ["class", "instanceCount"] },
-    "results": {
-      "distinct": false,
-      "ordered": true,
-      "bindings": [
-        {
-          "class": { "type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing" },
-          "instanceCount": {
-            "type": "typed-literal",
-            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "2350909"
-          }
-        },
-        {
-          "class": { "type": "uri", "value": "http://dbpedia.org/ontology/Work" },
-          "instanceCount": {
-            "type": "typed-literal",
-            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "1149461"
-          }
-        },
-        {
-          "class": { "type": "uri", "value": "http://schema.org/CreativeWork" },
-          "instanceCount": {
-            "type": "typed-literal",
-            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "1149461"
-          }
-        },
-        {
-          "class": { "type": "uri", "value": "http://schema.org/Thing" },
-          "instanceCount": {
-            "type": "typed-literal",
-            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "1052284"
-          }
-        },
-        {
-          "class": { "type": "uri", "value": "http://dbpedia.org/ontology/Agent" },
-          "instanceCount": {
-            "type": "typed-literal",
-            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "956477"
-          }
-        },
-        {
-          "class": { "type": "uri", "value": "http://xmlns.com/foaf/0.1/Person" },
-          "instanceCount": {
-            "type": "typed-literal",
-            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "807752"
-          }
-        },
-        {
-          "class": { "type": "uri", "value": "http://schema.org/Person" },
-          "instanceCount": {
-            "type": "typed-literal",
-            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "807537"
-          }
-        },
-        {
-          "class": { "type": "uri", "value": "http://dbpedia.org/ontology/Person" },
-          "instanceCount": {
-            "type": "typed-literal",
-            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "807142"
-          }
-        },
-        {
-          "class": { "type": "uri", "value": "http://www.w3.org/2004/02/skos/core#Concept" },
-          "instanceCount": {
-            "type": "typed-literal",
-            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "743360"
-          }
-        },
-        {
-          "class": { "type": "uri", "value": "http://schema.org/Place" },
-          "instanceCount": {
-            "type": "typed-literal",
-            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "572732"
-          }
-        }
-      ]
-    }
-  },
+  "http://lod.openlinksw.com/sparql": "node: no response",
+  "http://lod.sztaki.hu/sparql": "node: invalid response",
   "http://lod.xdams.org/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -3466,7 +3566,7 @@
       ]
     }
   },
-  "http://onto.mondis.cz/openrdf-sesame/repositories/mondis-record-owlim": "response parsing error",
+  "http://onto.mondis.cz/openrdf-sesame/repositories/mondis-record-owlim": "node: response parsing error",
   "http://opendata.aragon.es/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -3486,7 +3586,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "1352682"
+            "value": "1352873"
           }
         },
         {
@@ -3494,7 +3594,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "199530"
+            "value": "202104"
           }
         },
         {
@@ -3502,7 +3602,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "170245"
+            "value": "172477"
           }
         },
         {
@@ -3510,7 +3610,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "55927"
+            "value": "56118"
           }
         },
         {
@@ -3526,7 +3626,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "36078"
+            "value": "36001"
           }
         },
         {
@@ -3553,13 +3653,13 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "30015"
+            "value": "29933"
           }
         }
       ]
     }
   },
-  "http://opendatacommunities.org/sparql": "invalid response",
+  "http://opendatacommunities.org/sparql": "node: invalid response",
   "http://premon.fbk.eu/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -3845,7 +3945,110 @@
       ]
     }
   },
-  "http://rdf.muninn-project.org/sparql": "no response",
+  "http://rdf.muninn-project.org/sparql": {
+    "head": { "link": [], "vars": ["class", "instanceCount"] },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "class": { "type": "uri", "value": "http://www.geonames.org/ontology#Feature" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "11985760"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://www.w3.org/2003/01/geo/wgs84_pos#Point" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1121043"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://geovocab.org/geometry.html#Geometry" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1098031"
+          }
+        },
+        {
+          "class": {
+            "type": "uri",
+            "value": "http://rdf.muninn-project.org/ontologies/documents#Image"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "319118"
+          }
+        },
+        {
+          "class": {
+            "type": "uri",
+            "value": "http://rdf.muninn-project.org/ontologies/documents#Page"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "298548"
+          }
+        },
+        {
+          "class": {
+            "type": "uri",
+            "value": "http://rdf.muninn-project.org/ontologies/organization#Person"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "198020"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "http://www.w3.org/2006/time#DateTimeDescription" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "177132"
+          }
+        },
+        {
+          "class": {
+            "type": "uri",
+            "value": "http://rdf.muninn-project.org/ontologies/military#Birth"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "164665"
+          }
+        },
+        {
+          "class": {
+            "type": "uri",
+            "value": "http://rdf.muninn-project.org/ontologies/documents#Document"
+          },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "163658"
+          }
+        },
+        {
+          "class": { "type": "uri", "value": "lvont:Character" },
+          "instanceCount": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "98944"
+          }
+        }
+      ]
+    }
+  },
   "http://ruian.linked.opendata.cz/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -4140,8 +4343,8 @@
       ]
     }
   },
-  "http://skos.um.es/sparql/": "invalid response",
-  "http://sparql.data.southampton.ac.uk/": "response parsing error",
+  "http://skos.um.es/sparql/": "node: invalid response",
+  "http://sparql.data.southampton.ac.uk/": "node: response parsing error",
   "http://sparql.odw.tw": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -4231,8 +4434,8 @@
       ]
     }
   },
-  "http://sparql.uniprot.org": "no response",
-  "http://vocab.nerc.ac.uk/sparql/": "response parsing error",
+  "http://sparql.uniprot.org": "node: no response",
+  "http://vocab.nerc.ac.uk/sparql/": "node: response parsing error",
   "http://webenemasuno.linkeddata.es/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -4360,7 +4563,7 @@
           "instanceCount": {
             "type": "literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "34157"
+            "value": "34155"
           }
         },
         {
@@ -4478,7 +4681,7 @@
       ]
     }
   },
-  "http://zbw.eu/beta/sparql/stw/query": "no response",
+  "http://zbw.eu/beta/sparql/stw/query": "node: invalid response",
   "https://w3id.org/scholarlydata/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -4589,7 +4792,7 @@
       ]
     }
   },
-  "http://statistics.data.gov.uk/sparql": "invalid response",
+  "http://statistics.data.gov.uk/sparql": "node: invalid response",
   "http://linguistic.linkeddata.es/sparql/": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -4679,7 +4882,7 @@
       ]
     }
   },
-  "http://opendata.caceres.es/sparql/": "no response",
+  "http://opendata.caceres.es/sparql/": "node: invalid response",
   "https://linked.opendata.cz/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -4888,10 +5091,10 @@
       ]
     }
   },
-  "http://opendata.caceres.es/sparql": "no response",
-  "https://data.cssz.cz/sparql": "invalid response",
-  "http://lod.csd.auth.gr:7200/repositories/DBpediaCitation_links": "response parsing error",
-  "https://data.epo.org/linked-data/query": "no response",
+  "http://opendata.caceres.es/sparql": "node: invalid response",
+  "https://data.cssz.cz/sparql": "node: invalid response",
+  "http://lod.csd.auth.gr:7200/repositories/DBpediaCitation_links": "node: response parsing error",
+  "https://data.epo.org/linked-data/query": "node: invalid response",
   "https://data.gov.cz/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -4903,7 +5106,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "1995586"
+            "value": "2043754"
           }
         },
         {
@@ -4911,7 +5114,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "1995586"
+            "value": "2043754"
           }
         },
         {
@@ -4927,7 +5130,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "186313"
+            "value": "186355"
           }
         },
         {
@@ -4938,7 +5141,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "186220"
+            "value": "186262"
           }
         },
         {
@@ -4946,7 +5149,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "141970"
+            "value": "141984"
           }
         },
         {
@@ -4954,7 +5157,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "141677"
+            "value": "141691"
           }
         },
         {
@@ -4962,7 +5165,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "141677"
+            "value": "141691"
           }
         },
         {
@@ -4973,7 +5176,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "140846"
+            "value": "140860"
           }
         },
         {
@@ -4981,7 +5184,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "140521"
+            "value": "140532"
           }
         }
       ]
@@ -5074,10 +5277,10 @@
       ]
     }
   },
-  "http://statistics.gov.scot/sparql": "invalid response",
-  "http://sparql.orthodb.org/sparql": "invalid response",
-  "http://id.nlm.nih.gov/mesh/sparql": "invalid response",
-  "http://sparql.uniprot.org/sparql": "no response",
+  "http://statistics.gov.scot/sparql": "node: invalid response",
+  "http://sparql.orthodb.org/sparql": "node: invalid response",
+  "http://id.nlm.nih.gov/mesh/sparql": "node: invalid response",
+  "http://sparql.uniprot.org/sparql": "node: no response",
   "https://dev.nkod.opendata.cz/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -5488,7 +5691,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "2143792"
+            "value": "2143836"
           }
         },
         {
