@@ -734,7 +734,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "856192"
+            "value": "856197"
           }
         },
         {
@@ -1545,7 +1545,7 @@
       ]
     }
   },
-  "http://edit.elte.hu/sparql": "node: invalid response",
+  "http://edit.elte.hu/sparql": "node: invalid response: 503 Service Unavailable",
   "http://en.openei.org/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -2325,7 +2325,7 @@
       ]
     }
   },
-  "http://heritagedata.org/live/sparql": "node: invalid response",
+  "http://heritagedata.org/live/sparql": "node: invalid response: 400 Bad Request",
   "http://id.ndl.go.jp/auth/ndla/": "node: response parsing error",
   "http://id.ndl.go.jp/auth/ndlsh/": "node: response parsing error",
   "http://ja.dbpedia.org/sparql": {
@@ -3037,7 +3037,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "3758566"
+            "value": "3758597"
           }
         },
         {
@@ -3045,7 +3045,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "2574175"
+            "value": "2574441"
           }
         },
         {
@@ -3053,7 +3053,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "2040289"
+            "value": "2040316"
           }
         },
         {
@@ -3064,7 +3064,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "1496700"
+            "value": "1496728"
           }
         },
         {
@@ -3072,7 +3072,7 @@
           "instanceCount": {
             "type": "typed-literal",
             "datatype": "http://www.w3.org/2001/XMLSchema#integer",
-            "value": "1496683"
+            "value": "1496711"
           }
         }
       ]
@@ -3375,7 +3375,7 @@
     }
   },
   "http://lod.openlinksw.com/sparql": "node: no response",
-  "http://lod.sztaki.hu/sparql": "node: invalid response",
+  "http://lod.sztaki.hu/sparql": "node: invalid response: 500 Internal Server Error",
   "http://lod.xdams.org/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -3659,7 +3659,7 @@
       ]
     }
   },
-  "http://opendatacommunities.org/sparql": "node: invalid response",
+  "http://opendatacommunities.org/sparql": "node: invalid response: 500 Internal Server Error",
   "http://premon.fbk.eu/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -4343,7 +4343,7 @@
       ]
     }
   },
-  "http://skos.um.es/sparql/": "node: invalid response",
+  "http://skos.um.es/sparql/": "node: invalid response: 400 Bad Request",
   "http://sparql.data.southampton.ac.uk/": "node: response parsing error",
   "http://sparql.odw.tw": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
@@ -4681,7 +4681,7 @@
       ]
     }
   },
-  "http://zbw.eu/beta/sparql/stw/query": "node: invalid response",
+  "http://zbw.eu/beta/sparql/stw/query": "node: invalid response: 503 Service Unavailable",
   "https://w3id.org/scholarlydata/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -4792,7 +4792,7 @@
       ]
     }
   },
-  "http://statistics.data.gov.uk/sparql": "node: invalid response",
+  "http://statistics.data.gov.uk/sparql": "node: invalid response: 500 Internal Server Error",
   "http://linguistic.linkeddata.es/sparql/": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -4882,7 +4882,7 @@
       ]
     }
   },
-  "http://opendata.caceres.es/sparql/": "node: invalid response",
+  "http://opendata.caceres.es/sparql/": "node: invalid response: 504 Gateway Timeout",
   "https://linked.opendata.cz/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -5091,10 +5091,10 @@
       ]
     }
   },
-  "http://opendata.caceres.es/sparql": "node: invalid response",
-  "https://data.cssz.cz/sparql": "node: invalid response",
+  "http://opendata.caceres.es/sparql": "node: invalid response: 504 Gateway Timeout",
+  "https://data.cssz.cz/sparql": "node: invalid response: 400 Bad Request",
   "http://lod.csd.auth.gr:7200/repositories/DBpediaCitation_links": "node: response parsing error",
-  "https://data.epo.org/linked-data/query": "node: invalid response",
+  "https://data.epo.org/linked-data/query": "node: invalid response: 503 Service Unavailable",
   "https://data.gov.cz/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },
     "results": {
@@ -5277,9 +5277,9 @@
       ]
     }
   },
-  "http://statistics.gov.scot/sparql": "node: invalid response",
-  "http://sparql.orthodb.org/sparql": "node: invalid response",
-  "http://id.nlm.nih.gov/mesh/sparql": "node: invalid response",
+  "http://statistics.gov.scot/sparql": "node: invalid response: 500 Internal Server Error",
+  "http://sparql.orthodb.org/sparql": "node: invalid response: 500 Internal Server Error",
+  "http://id.nlm.nih.gov/mesh/sparql": "node: invalid response: 406 Not Acceptable",
   "http://sparql.uniprot.org/sparql": "node: no response",
   "https://dev.nkod.opendata.cz/sparql": {
     "head": { "link": [], "vars": ["class", "instanceCount"] },

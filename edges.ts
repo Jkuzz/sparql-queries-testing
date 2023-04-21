@@ -24,7 +24,10 @@ for (const endpointUrl in queriedEndpoints) {
     continue
   }
 
-  if(parsedResponse.data.results.bindings.length < 2) continue
+  if (parsedResponse.data.results.bindings.length < 2) {
+    processedEndpoints[endpointUrl] = 'Insufficient number of classes'
+    continue
+  }
   pendingEndpoints.add(endpointUrl)
   const firstClass = parsedResponse.data.results.bindings[0]
   const secondClass = parsedResponse.data.results.bindings[1]
@@ -49,7 +52,7 @@ async function queryCallback(endpointUrl: string, res?: Response) {
   if (!res) {
     processedEndpoints[endpointUrl] = 'edge: no response'
   } else if (!res.ok) {
-    processedEndpoints[endpointUrl] = 'edge: invalid response'
+    processedEndpoints[endpointUrl] = `edge: invalid response: ${res.status} ${res.statusText}`
   } else {
     try {
       processedEndpoints[endpointUrl] = await res.json()

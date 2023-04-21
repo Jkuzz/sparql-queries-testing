@@ -9,5 +9,8 @@ export function queryEndpoint(endpoint: URL, query: string) {
   queryURL += '&format=application%2Fsparql-results%2Bjson'
   return fetch(queryURL, {
     signal: AbortSignal.timeout(120 * 1000),
+    headers: {
+      'Access-Control-Allow-Origin': '*',
+    },
   })
 }

@@ -14,11 +14,11 @@ const endpoints = allEndpoints
   .filter((endpoint) => endpoint.status !== 'invalid' && endpoint.status !== 'unavailable')
   .map((endpoint) => endpoint.endpoint)
 
+const pendingEndpoints = new Set<string>(endpoints)
+
 endpoints.forEach((endpointUrl) => {
   queryResponses[endpointUrl] = 'pending'
 })
-
-const pendingEndpoints = new Set<string>(endpoints)
 
 endpoints.forEach((endpointUrl) => {
   try {
@@ -38,7 +38,7 @@ async function queryCallback(endpointUrl: string, res?: Response) {
   if (!res) {
     queryResponses[endpointUrl] = 'node: no response'
   } else if (!res.ok) {
-    queryResponses[endpointUrl] = 'node: invalid response'
+    queryResponses[endpointUrl] = `node: invalid response: ${res.status} ${res.statusText}`
   } else {
     try {
       queryResponses[endpointUrl] = await res.json()
